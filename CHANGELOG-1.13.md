@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/influxdata/telegraf/CHANGELOG-1.13.md
